@@ -4,8 +4,9 @@ export default {
 	theme: {
 		extend: {
 			colors: {
-				evergreen: "#2b4341",
+				dark: "#363636",
 				"evergreen-light": "#2aa78D",
+				primary: "#ADD8E6",
 			},
 		},
 	},
